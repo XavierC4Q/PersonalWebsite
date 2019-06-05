@@ -1,0 +1,31 @@
+#main-head {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 15%;
+}
+
+#top-head-section {
+    height: 65%;
+    width: 90%;
+}
+
+.logo-wrap {
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.logo-contain {
+    width: 50%;
+    height: 80%;
+}
+
+#botton-head-section {
+    height: 35%;
+    width: 90%
+}
+
+.links-wrap {
+    display: flex;
+    justify-content: center;
+}
